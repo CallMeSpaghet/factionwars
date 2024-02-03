@@ -1,0 +1,26 @@
+.main{
+    margin-left: 160px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.welcome{
+    background-color: black;
+    border: 1px solid rgb(82, 82, 82);
+    text-align: center;
+    margin: 20px 16px 0 0;
+    border-radius: 10px;
+    font-size: 30px;
+
+}
+
+.forum{
+    background-color: black;
+    border: 1px solid rgb(82, 82, 82);
+    text-align: center;
+    margin: 20px 16px 0 0;
+    border-radius: 10px;
+    font-size: 30px;
+
+}
+
